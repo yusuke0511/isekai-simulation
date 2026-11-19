@@ -37,4 +37,8 @@ Claude と一緒に仮想世界を作って観察する、テキストベース�
 ## ライセンス
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)(クリエイティブ・コモンズ 表示 4.0 国際)です。
-自由に使用・改変・再配布できます。利用する際は、作者のクレジットを表示してください。詳しくは [LICENSE](LICENSE) を参照してください。
+自由に使用・改変・再配布できます。利用する際は、次のようにクレジットを表示してください。
+
+> 異世界シミュレーションゲーム by [yusuke0511](https://github.com/yusuke0511) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+詳しくは [LICENSE](LICENSE) を参照してください。
