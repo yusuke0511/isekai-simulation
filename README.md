@@ -42,3 +42,5 @@ Claude と一緒に仮想世界を作って観察する、テキストベース�
 > 異世界シミュレーションゲーム by [yusuke0511](https://github.com/yusuke0511) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 詳しくは [LICENSE](LICENSE) を参照してください。
+
+ライセンスの正式な条文は英語版です。日本語での解説は [こちら](https://creativecommons.org/licenses/by/4.0/deed.ja) を参照してください。
