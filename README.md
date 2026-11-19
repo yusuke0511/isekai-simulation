@@ -24,7 +24,9 @@ Claude と一緒に仮想世界を作って観察する、テキストベース�
 
 ## 遊び方
 
-1. このリポジトリを clone するか、`isekai-simulation-rules.md` をダウンロードします。
+1. このリポジトリをダウンロードします。
+   - Git を使う場合: `git clone https://github.com/yusuke0511/isekai-simulation.git`
+   - Git を使わない場合: このページ右上の緑色の「Code」ボタンから「Download ZIP」を選び、解凍します。
 2. Claude(Claude Code など、ファイルを読み込める環境)で、このファイルがある場所を開きます。
 3. Claude に次のように伝えます。
 
